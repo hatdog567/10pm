@@ -1,0 +1,19 @@
+body{
+
+    background-image: url("images/night.jpg");
+
+    background-repeat: no-repeat;
+    background-size: 1095px;
+    text-align: center;
+    font-size: 50px;
+    color: white;
+}
+
+h5{
+  
+    font-size: 20px;
+    color: blanchedalmond;
+}
+
+
+
